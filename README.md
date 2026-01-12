@@ -4,4 +4,4 @@ Patch that will add resources from Grimworld 40k Masters of Mankind to mines 2.0
 
 Should unlock after the Auto forge research is completed.
 
-[Patch Notes]([https://steamcommunity.com/sharedfiles/filedetails/changelog/3645027072)
+[Patch Notes](https://steamcommunity.com/sharedfiles/filedetails/changelog/3645027072)
